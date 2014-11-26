@@ -1,0 +1,5 @@
+dest.writeInt(mFromPage);
+ParcelUtils.writeBooleanToParcel(dest, mIsShowHistory);
+ParcelUtils.writeBooleanToParcel(dest, mIsShowNearyby);
+ParcelUtils.writeBooleanToParcel(dest, mIsShowFav);
+ParcelUtils.writeBooleanToParcel(dest, mIsShowMap);

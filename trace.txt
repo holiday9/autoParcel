@@ -1,0 +1,14 @@
+用awk获取成员变量?
+awk '/pattern/{action}' file
+
+怎么判断var type?
+if ($2 == "int")
+
+加入自定义变量?
+在BEGIN{}中初始化
+
+字符串合并?
+use printf
+
+awk 重定向输出?
+行尾重定向

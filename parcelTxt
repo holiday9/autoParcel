@@ -1,0 +1,5 @@
+public int mFromPage = FROM_TRANSFER_TAB;
+public boolean mIsShowHistory = false;
+public boolean mIsShowNearyby = false;
+public boolean mIsShowFav = false;
+public boolean mIsShowMap = false;

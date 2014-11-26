@@ -1,0 +1,5 @@
+mFromPage = in.readInt();
+mIsShowHistory = ParcelUtils.readBooleanFromParcel(in);
+mIsShowNearyby = ParcelUtils.readBooleanFromParcel(in);
+mIsShowFav = ParcelUtils.readBooleanFromParcel(in);
+mIsShowMap = ParcelUtils.readBooleanFromParcel(in);
